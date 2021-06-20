@@ -6,7 +6,7 @@ class Employee
 private:
     string name;
     string gender;
-    int number;//���
+    int number;
     int position;//ְλ
     const static int N=100;
     virtual void record(Time t)=0;
